@@ -1,4 +1,4 @@
-# MyProjects
+# Fuzzer
 
 Фаззер формата файла
 
